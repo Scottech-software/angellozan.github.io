@@ -19,6 +19,8 @@ parallel_localization: true # Not very significant
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Europe/Portugal
 
+fallback_canonical_to_default_lang: true
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
