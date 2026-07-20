@@ -57,8 +57,9 @@ social:
 
 
 # Site Verification Settings
+# These verification codes will be inserted into the SEO meta tags automatically by jekyll-seo-tag.
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: # fill in your Google verification code (e.g. "google1234567890abcdef")
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -69,14 +70,16 @@ webmaster_verifications:
 # The end of `jekyll-seo-tag` settings
 
 # Web Analytics Settings
+# Populate any of the following to activate analytics scripts automatically in production.
+# Note: These scripts will only be included when JEKYLL_ENV=production.
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID (e.g. "G-XXXXXXXXXX")
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: # fill in your GoatCounter ID (e.g. "username")
   umami:
     id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    domain: # fill in your Umami domain (e.g. "analytics.umami.is")
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
@@ -87,7 +90,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: # now only supports 'goatcounter' to show page view counts on posts/home page.
 
 # Prefer color scheme setting.
 #
