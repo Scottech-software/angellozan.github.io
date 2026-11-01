@@ -79,4 +79,4 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 ## 10. Contact Us
 
-If you have questions about this Privacy Policy or our data practices, contact us at <scottloz@protonmail.com>, or by mail at the address of scottech.
+If you have questions about this Privacy Policy or our data practices, reach out through the [contact page](/contact-me).

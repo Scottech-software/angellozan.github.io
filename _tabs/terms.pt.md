@@ -62,4 +62,4 @@ Podemos revisar estes Termos periodicamente. Quando isso acontecer, atualizaremo
 
 ## 12. Fale Conosco
 
-Se você tiver alguma dúvida sobre estes Termos, entre em contato pelo e-mail <scottloz@protonmail.com>.
+Se você tiver alguma dúvida sobre estes Termos, entre em contato pela [página de contato](/contact-me).

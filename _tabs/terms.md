@@ -62,4 +62,4 @@ We may revise these Terms from time to time. When we do, we will update the "Las
 
 ## 12. Contact Us
 
-If you have any questions about these Terms, contact us at <scottloz@protonmail.com>.
+If you have any questions about these Terms, reach out through the [contact page](/contact-me).

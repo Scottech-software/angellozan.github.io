@@ -79,4 +79,4 @@ Podemos atualizar esta Política de Privacidade periodicamente. Quando isso acon
 
 ## 10. Fale Conosco
 
-Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de dados, entre em contato pelo e-mail <scottloz@protonmail.com> ou por correio no endereço da scottech.
+Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de dados, entre em contato pela [página de contato](/contact-me).
