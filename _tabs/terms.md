@@ -54,7 +54,7 @@ We may suspend or terminate your access to the Site at any time, with or without
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of [State/Province], United States, without regard to its conflict of law provisions. You agree to submit to the personal jurisdiction of the courts located in [State/Province] for the resolution of any disputes.
+These Terms are governed by the laws of the State of Washington, United States, without regard to its conflict of law provisions. You agree to submit to the personal jurisdiction of the courts located in the State of Washington for the resolution of any disputes.
 
 ## 11. Changes to These Terms
 

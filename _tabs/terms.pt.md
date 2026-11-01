@@ -54,7 +54,7 @@ Podemos suspender ou encerrar seu acesso ao Site a qualquer momento, com ou sem 
 
 ## 10. Lei Aplicável
 
-Estes Termos são regidos pelas leis de [State/Province], Estados Unidos, sem considerar suas disposições sobre conflito de leis. Você concorda em se submeter à jurisdição pessoal dos tribunais localizados em [State/Province] para a resolução de quaisquer disputas.
+Estes Termos são regidos pelas leis do Estado de Washington, Estados Unidos, sem considerar suas disposições sobre conflito de leis. Você concorda em se submeter à jurisdição pessoal dos tribunais localizados no Estado de Washington para a resolução de quaisquer disputas.
 
 ## 11. Alterações Nestes Termos
 
