@@ -59,7 +59,7 @@ Sujeito às condições aplicáveis, você tem o direito de:
 - Retirar o consentimento a qualquer momento, sem afetar o tratamento já realizado.
 - Apresentar uma reclamação à autoridade de proteção de dados local.
 
-Para exercer qualquer um desses direitos, entre em contato conosco pelo e-mail <scottloz@protonmail.com>. Responderemos dentro do prazo exigido por lei, geralmente um mês.
+Para exercer qualquer um desses direitos, entre em contato conosco pela [página de contato](/contact-me). Responderemos dentro do prazo exigido por lei, geralmente um mês.
 
 ## 6. Retenção de Dados
 

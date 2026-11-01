@@ -59,7 +59,7 @@ Subject to applicable conditions, you have the right to:
 - Withdraw consent at any time, without affecting processing already carried out.
 - Lodge a complaint with your local data protection supervisory authority.
 
-To exercise any of these rights, contact us at <scottloz@protonmail.com>. We will respond within the time required by law, generally one month.
+To exercise any of these rights, contact us through the [contact page](/contact-me). We will respond within the time required by law, generally one month.
 
 ## 6. Data Retention
 
