@@ -5,6 +5,7 @@ permalink: /privacy
 title: Política de Privacidade
 icon: fas fa-user-shield
 order: 6
+nav: false
 ---
 Scottech Software (<https://scottech.software>)
 

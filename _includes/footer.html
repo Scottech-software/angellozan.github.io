@@ -28,6 +28,12 @@
     {% endif %}
   </p>
 
+  <p class="footer-links">
+    <a href="{{ '/privacy' | relative_url }}">{{ site.data.locales[include.lang].tabs.privacy }}</a>
+    <span class="mx-1">·</span>
+    <a href="{{ '/terms' | relative_url }}">{{ site.data.locales[include.lang].tabs.terms }}</a>
+  </p>
+
   <p>
     {%- capture _platform -%}
       <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>

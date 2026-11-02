@@ -5,6 +5,7 @@ permalink: /terms
 title: Terms of Service
 icon: fas fa-file-contract
 order: 7
+nav: false
 ---
 Scottech Software (<https://scottech.software>)
 
