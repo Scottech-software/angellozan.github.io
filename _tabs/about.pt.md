@@ -23,12 +23,12 @@ Com quem já desenvolvi software:
 </a>
 <br>
 <br>
-<a href="https://exodus.com/" >
+<a href="/posts/career-exodus" title="Meu tempo na Exodus">
 <img alt="Exodus" title="Exodus Movement" src="../assets/img/EXODUS_logo-colour_LIGHT.png" alt="Exodus" style="width:190px;height:50px;" />
 </a>
 <br>
 <br>
-<a href="https://artsvp.com/" >
+<a href="/posts/career-artsvp" title="Meu trabalho na ARTSVP">
 <img alt="Artsvp" title="Artsvp" src="../assets/img/artsvp.svg" alt="Artsvp" width="150"  />
 </a>
 <br>
