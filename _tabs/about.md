@@ -162,12 +162,15 @@ I have been constantly learning new technologies to find creative solutions to u
 ### 📊 Stats
 ---
 
-<p>
-  <img src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=dark&langs_count=10&layout=compact" alt="AngelLozan-languages" />
+<p align="center">
+  <a href="https://github.com/AngelLozan"><img src="https://raw.githubusercontent.com/AngelLozan/AngelLozan/main/profile/stats.svg" alt="Scott's GitHub stats" height="180" /></a>
+  <a href="https://github.com/AngelLozan"><img src="https://raw.githubusercontent.com/AngelLozan/AngelLozan/main/profile/top-langs.svg" alt="Scott's top languages" height="180" /></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngelLozan/AngelLozan/main/profile-3d-contrib/profile-night-view.svg" alt="Scott's contribution graph" width="100%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=onedark" alt="angellozan" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/AngelLozan/AngelLozan/main/profile/trophy.svg" alt="Scott's GitHub trophies" /></a>
+</p>
